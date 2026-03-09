@@ -12,10 +12,10 @@ Overall, this homework assignment reminded me of fundamental skills and concepts
 <br><br><br><br>
 ![Photo of old radio]({{ "/assets/images/1.1.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 ![Photo of old radio]({{ "/assets/images/1.2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
-![Photo of old radio]({{ "/assets/images/2.1.png" | relative_url }}){: .inline-image-c style="width: 500px"}
-![Photo of old radio]({{ "/assets/images/2.2.png" | relative_url }}){: .inline-image-c style="width: 500px"}
-![Photo of old radio]({{ "/assets/images/3.1.png" | relative_url }}){: .inline-image-c style="width: 500px"}
-![Photo of old radio]({{ "/assets/images/3.2.png" | relative_url }}){: .inline-image-c style="width: 500px"}
+![Photo of old radio]({{ "/assets/images/2.1.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/2.2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/3.1.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/3.2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 
 
 
