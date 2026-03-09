@@ -11,4 +11,4 @@ In addition to all the conceptual aspects, I also learned how to approach the pr
 Overall, this homework assignment reminded me of fundamental skills and concepts that eventually help me understand new, harder concepts better. 
 
 
-![Photo of old radio]({{ "/assets/images/Problem+set+3.pdf" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/Problem+set+3.pdf" | relative_url }}){: .inline-image-l}
