@@ -5,7 +5,12 @@ description: Problem Set #5 Question 3
 technologies: N/A
 image: /assets/images/flame.jpg
 ---
-![Photo of old radio]({{ "/assets/Problem+set+3.pdf" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/1.1.png" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/1.2.png" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/2.1.png" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/2.2.png" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/3.1.png" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/3.2.png" | relative_url }}){: .inline-image-l}
 <br>
 <br>
 <br>
