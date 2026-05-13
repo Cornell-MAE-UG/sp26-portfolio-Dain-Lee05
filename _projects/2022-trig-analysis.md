@@ -26,7 +26,7 @@ Conclusions:
 <br>
 Something we would change is that we would make our robot heavier. One way to do this would be using the remainder of our budget to 3D print the cube box instead of using cardboard. We would generally just  put more emphasis on the possibility of a collision with the opponent. A way to tackle this could have been having a potentiometer to detect the opponent robot ahead of ours, and perhaps avoid the opponent by having our robot either roll back or turn when detecting them. Other than that, our robot was able to stay on the board on its own and successfully collect many cubes before getting pushed off. We would recommend students who will take the course next year to not overcomplicate their robot by overloading it with too many sensors that are too hard to manage together. One QTI sensor, one color sensor and one potentiometer would be sufficient. Also, it is important to note that even though the milestones are passed individually, during the competition a collision with the opponent is almost unavoidable, and a large emphasis must be placed on this and how your robot will handle head-to-head collisions. 
 
-Appendix A: Bill of Materials:
+Appendix A: Bill of Materials: <br>
 Two 3d-printed back-wheel extensions, printed with PLA (see appendix C)
 Weight of both together: 0.01g
 Price of both together: $2.00
@@ -37,13 +37,13 @@ Two large wheels ordered from Polulu (https://www.pololu.com/product/4929)
 Price of both together: $15.50
 <br><br><br>
 Appendix B: Circuit Diagram <br>
-![Photo of old radio]({{ "/assets/images/circuit.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/circuit.png" | relative_url }}){: .inline-image-c style="width:500px"}
 
 
 
 <br><br><br>
 Appendix C:<br>
-![Photo of old radio]({{ "/assets/images/fig2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/fig2.png" | relative_url }}){: .inline-image-c style="width: 500px"}
 
 
 Figure 2: Sketch and volume of the back wheel extensions 
@@ -53,7 +53,7 @@ We used PLA to print those, which have a density of 0.75*1.25 = 0.938 g/cm^3.
 Therefore each of the two backwheel extensions has a weight of 0.938*0.005391=0.005g. 
 The two of those together weigh about 0.01g.
 <br><br><br>
-![Photo of old radio]({{ "/assets/images/fig3.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/fig3.png" | relative_url }}){: .inline-image-c style="width: 500px"}
 <br>
 Figure 3: Sketch and volume of the 3d-printed arms
 
@@ -63,7 +63,7 @@ Therefore each of the two backwheel extensions has a weight of 0.938*0.537853= 0
 The two of those together weigh about 1g.
 <br><br><br>
 Appendix D: Algorithm Flowchart <br>
-![Photo of old radio]({{ "/assets/images/algorithm.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/algorithm.png" | relative_url }}){: .inline-image-c style="width: 500px"}
 
 <br><br><br>
 Appendix E:
