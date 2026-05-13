@@ -6,7 +6,6 @@ technologies: [Arduino, Fusion 360]
 image: /assets/images/IMG_6844.jpeg
 ---
 
-<br><br><br><br>
 Robot Design and Strategy Overview:
 <br>
 From the mechanical perspective, our robot has large wheels which allows it to store cubes underneath, while the back side is blocked with cardboard to avoid losing the cubes from behind. The robot has two fixed arms in front of it to guide the cubes underneath. (see Figure 1 and appendix C figure 3) The robot also has a cardboard box attached to its left side in order to collect and store even more cubes while driving forward. The color sensor is near the front of the robot, close to the floor in order to accurately detect the color. 
@@ -66,7 +65,7 @@ Appendix D: Algorithm Flowchart <br>
 ![Photo of old radio]({{ "/assets/images/algorithm.png" | relative_url }}){: .inline-image-c style="width: 500px"}
 
 <br><br><br>
-Appendix E:
+Appendix E:<br>
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
