@@ -3,7 +3,7 @@ layout: project
 title: Robot Competition
 description: MAE 3780 Final Project 
 technologies: [Arduino, Fusion 360]
-image: /assets/images/function-graph.png
+image: /assets/images/IMG_6844.jpeg
 ---
 
 <br><br><br><br>
@@ -37,33 +37,24 @@ Two large wheels ordered from Polulu (https://www.pololu.com/product/4929)
 Price of both together: $15.50
 <br><br><br>
 Appendix B: Circuit Diagram <br>
-
-
-
-
-
-
-
-
-
-
-
-
+![Photo of old radio]({{ "/assets/images/circuit.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 
 
 
 <br><br><br>
 Appendix C:<br>
+![Photo of old radio]({{ "/assets/images/fig2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 
 
-Figure 2: Sketch and volume of the back wheel extensions
-
+Figure 2: Sketch and volume of the back wheel extensions 
+<br>
 The back wheel extensions have a volume of 5.391mm^3 = 0.005391 cm^3. 
 We used PLA to print those, which have a density of 0.75*1.25 = 0.938 g/cm^3. 
 Therefore each of the two backwheel extensions has a weight of 0.938*0.005391=0.005g. 
 The two of those together weigh about 0.01g.
-
-
+<br><br><br>
+![Photo of old radio]({{ "/assets/images/fig3.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+<br>
 Figure 3: Sketch and volume of the 3d-printed arms
 
 The back wheel extensions have a volume of 567.853 mm^3 = 0.537853 cm^3. 
@@ -72,6 +63,7 @@ Therefore each of the two backwheel extensions has a weight of 0.938*0.537853= 0
 The two of those together weigh about 1g.
 <br><br><br>
 Appendix D: Algorithm Flowchart <br>
+![Photo of old radio]({{ "/assets/images/algorithm.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 
 <br><br><br>
 Appendix E:
