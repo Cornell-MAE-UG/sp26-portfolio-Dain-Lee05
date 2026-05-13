@@ -10,7 +10,7 @@ I learned the most from problem set #3 where the energy balance equation and 1D 
 In addition to all the conceptual aspects, I also learned how to approach the problem through units. I was reminded of the importance of units because they served as hints in some parts that lead to the final answer. For example, in question 3, I was initially confused about what R” meant, but knowing the relationship between thermal resistance and heat rate, I was able to solve for its unit, giving a hint on how to find maximum allowable temperature. 
 Overall, this homework assignment reminded me of fundamental skills and concepts that eventually help me understand new, harder concepts better. 
 <br><br><br><br>
-![Photo of old radio]({{ "/assets/images/1.1.png" | relative_url }}){: .inline-image-c style="width: 250px"}
+![Photo of old radio]({{ "/assets/images/pset.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 ![Photo of old radio]({{ "/assets/images/1.2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 ![Photo of old radio]({{ "/assets/images/2.1.png" | relative_url }}){: .inline-image-c style="width: 250px"}
 ![Photo of old radio]({{ "/assets/images/2.2.png" | relative_url }}){: .inline-image-c style="width: 250px"}
